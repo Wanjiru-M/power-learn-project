@@ -3,7 +3,7 @@ Calculator App
 
 This is a simple calculator app created using Dart. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Features
+Features:
 Addition
 Subtraction
 Multiplication
